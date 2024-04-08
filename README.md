@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reem38519753
+- 👋 Hi, I’m Reem Mohamed
 - 👀 I’m interested in by programming
 - 🌱 I am currently learning React
 
